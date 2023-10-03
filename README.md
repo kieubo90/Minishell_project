@@ -13,7 +13,7 @@
 - Support for popular utilities: `grep`, `cat`, `echo`, along with their respective flags.
 - Advanced command chaining and inter-process communication.
 
-**##Behind The Scenes 🛠️##**
+## Behind The Scenes 🛠️
 
 Building Minishell was a monumental task. Alongside a dedicated team of five talented developers, we poured our efforts over two intensive months into this project. This journey endowed us with a deep understanding of the following:
 
