@@ -1,5 +1,6 @@
 # Minishell 🐚
 
+Link to this project video: https://youtu.be/BgTHw6t3qzk
 ---
 
 ## Overview
