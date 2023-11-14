@@ -2,6 +2,10 @@
 
 Link to this project video: https://youtu.be/BgTHw6t3qzk</a>
 ---
+## First of all: 
+We need readline library to be able to run this project
+If you are using linux, first run this command: sudo apt-get install libreadline-dev
+else if you are using MacOs,  first run this command: brew install readline
 
 ## Overview
 
